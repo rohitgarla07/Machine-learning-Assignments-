@@ -1,0 +1,1 @@
+Steps:1) Open the notebook keeping it in the folder with spamtrain.csv and spamtest.csv.2) It should run fine if both the .csv files are in the dataset
